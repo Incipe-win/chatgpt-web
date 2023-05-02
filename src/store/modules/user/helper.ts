@@ -19,7 +19,7 @@ export function defaultSetting(): UserState {
 			name: "Ethereal",
 			description: "Young And Beautiful",
 		},
-	};
+	}
 }
 
 export function getLocalState(): UserState {
